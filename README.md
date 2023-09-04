@@ -4,7 +4,8 @@ A content-based recommendation system recommends items to users based on the sim
 A content-based movie recommender system using cosine similarity
 
 * you need Pycharm to the application and jupyter notebook to train the dataset 
-* We have used multiple Python lib 
+* We have used multiple Python lib
+* API from  https://developer.themoviedb.org/reference/intro/getting-started
 
 
 Snapshot :
